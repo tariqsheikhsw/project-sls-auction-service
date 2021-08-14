@@ -1,6 +1,6 @@
-# Codingly.io: Base Serverless Framework Template
+# TariqSheikh.IO: Base Serverless Framework Template
 
-https://codingly.io
+https:/tariqsheikh.io
 
 ## What's included
 * Folder structure used consistently across our projects.
